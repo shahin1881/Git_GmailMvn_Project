@@ -1,0 +1,16 @@
+09/02/2021 22:55:20 devpinoyLogger Loading OR property file
+09/02/2021 22:55:20 devpinoyLogger Loading Config property file
+09/02/2021 22:55:20 devpinoyLogger Loading OR property file
+09/02/2021 22:55:20 devpinoyLogger Loading Config property file
+09/02/2021 22:55:27 devpinoyLogger Launching browser
+09/02/2021 22:55:32 devpinoyLogger Loading URL
+09/02/2021 22:55:32 devpinoyLogger Executing login Test
+09/02/2021 22:55:32 devpinoyLogger Giving username
+09/02/2021 22:55:32 devpinoyLogger Giving password
+09/02/2021 22:55:33 devpinoyLogger login Successfully
+09/02/2021 22:55:50 devpinoyLogger click on Profile Button
+09/02/2021 22:56:05 devpinoyLogger click on EditProfile Button
+09/02/2021 22:56:22 devpinoyLogger User click on Save Buttton
+09/02/2021 22:56:22 devpinoyLogger Sending Mail
+09/02/2021 22:56:25 devpinoyLogger Sending Mail Successfully......
+09/02/2021 22:56:26 devpinoyLogger Closing Browser.

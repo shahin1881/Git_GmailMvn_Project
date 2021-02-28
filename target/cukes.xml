@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="66.308222">
+<testcase classname="Login into facebook account" name="Login into facebook account" time="15.763024">
+<system-out><![CDATA[Given User is on facebook login page........................................passed
+When User enters username as Password.......................................passed
+When User clicks on signIn button...........................................passed
+Then login should be successful.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login into facebook account" name="UploadPhoto into facebook account" time="50.545198">
+<system-out><![CDATA[Given click on Profile Button...............................................passed
+When click on EditProfile Button............................................passed
+Then User click on UploadPhoto button.......................................passed
+Then User click on Save Buttton.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

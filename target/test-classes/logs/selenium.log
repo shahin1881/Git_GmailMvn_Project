@@ -1,0 +1,16 @@
+22:55:20,741 DEBUG devpinoyLogger:51 - Loading OR property file
+22:55:20,744 DEBUG devpinoyLogger:66 - Loading Config property file
+22:55:20,745 DEBUG devpinoyLogger:51 - Loading OR property file
+22:55:20,746 DEBUG devpinoyLogger:66 - Loading Config property file
+22:55:27,039 DEBUG devpinoyLogger:41 - Launching browser
+22:55:32,324 DEBUG devpinoyLogger:46 - Loading URL
+22:55:32,362 DEBUG devpinoyLogger:62 - Executing login Test
+22:55:32,604 DEBUG devpinoyLogger:68 - Giving username
+22:55:32,880 DEBUG devpinoyLogger:72 - Giving password
+22:55:33,138 DEBUG devpinoyLogger:86 - login Successfully
+22:55:50,215 DEBUG devpinoyLogger:28 - click on Profile Button
+22:56:05,246 DEBUG devpinoyLogger:42 - click on EditProfile Button
+22:56:22,881 DEBUG devpinoyLogger:129 - User click on Save Buttton
+22:56:22,881 DEBUG devpinoyLogger:103 - Sending Mail
+22:56:25,385 DEBUG devpinoyLogger:115 - Sending Mail Successfully......
+22:56:26,715 DEBUG devpinoyLogger:117 - Closing Browser.

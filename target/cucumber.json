@@ -1,0 +1,150 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Login into facebook account",
+        "description": "",
+        "id": "login-into-facebook-account;login-into-facebook-account",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11986196700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on facebook login page",
+            "match": {
+              "location": "FaceBookLoginTest.user_is_on_facebook_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 521249100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enters username as Password",
+            "match": {
+              "location": "FaceBookLoginTest.user_enters_username_as_Password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Username",
+                  "Password"
+                ],
+                "line": 7
+              },
+              {
+                "cells": [
+                  "7410113240",
+                  "rani8421@#"
+                ],
+                "line": 8
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3255443500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User clicks on signIn button",
+            "match": {
+              "location": "FaceBookLoginTest.user_clicks_on_signin_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 135100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "login should be successful",
+            "match": {
+              "location": "FaceBookLoginTest.login_should_be_sucessful()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 13,
+            "value": "#@SeleniumTest"
+          }
+        ],
+        "line": 14,
+        "name": "UploadPhoto into facebook account",
+        "description": "",
+        "id": "login-into-facebook-account;uploadphoto-into-facebook-account",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14056939000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "click on Profile Button",
+            "match": {
+              "location": "UploadPhotoTest.click_on_profile_button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15025925400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "click on EditProfile Button",
+            "match": {
+              "location": "UploadPhotoTest.click_on_editprofile_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 17201998300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User click on UploadPhoto button",
+            "match": {
+              "location": "UploadPhotoTest.user_click_on_uploadphoto_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4260335100,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User click on Save Buttton",
+            "match": {
+              "location": "UploadPhotoTest.user_click_on_save_buttton()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login into facebook account",
+    "description": "",
+    "id": "login-into-facebook-account",
+    "keyword": "Feature",
+    "uri": "FaceBookLogin.feature"
+  }
+]
